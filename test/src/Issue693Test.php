@@ -1,10 +1,5 @@
 <?php
 
-require_once dirname(__FILE__) . '/../../../../../generator/lib/util/PropelQuickBuilder.php';
-require_once dirname(__FILE__) . '/../../../../../generator/lib/behavior/versionable/VersionableBehavior.php';
-require_once dirname(__FILE__) . '/../../../../../runtime/lib/Propel.php';
-require_once dirname(__FILE__) . '/../../../../../generator/lib/platform/PgsqlPlatform.php';
-
 class Issue693Test extends PHPUnit_Framework_TestCase
 {
     protected $builder = null;

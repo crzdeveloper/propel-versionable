@@ -8,6 +8,8 @@
  * @license    MIT License
  */
 
+namespace Crzdeveloper\Proppel1\Generator\Lib\Behavior\Versionable;
+
 /**
  * Behavior to add versionable columns and abilities
  *

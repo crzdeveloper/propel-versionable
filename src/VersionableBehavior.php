@@ -8,6 +8,11 @@
  * @license    MIT License
  */
 
+namespace Crzdeveloper\Proppel1\Generator\Lib\Behavior\Versionable;
+
+use Behavior;
+use ForeignKey;
+
 /**
  * Keeps tracks of all the modifications in an ActiveRecord object
  *

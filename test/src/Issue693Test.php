@@ -1,5 +1,7 @@
 <?php
 
+namespace Crzdeveloper\Test\Proppel1\Generator\Lib\Behavior\Versionable;
+
 class Issue693Test extends PHPUnit_Framework_TestCase
 {
     protected $builder = null;

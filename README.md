@@ -26,3 +26,8 @@ configuration file:
 ``` ini
 propel.behavior.versionable.class = <path to crzdeveloper/propel-versionable>
 ```
+
+Or in case you use composer:
+``` ini
+propel.behavior.versionable.class = \Crzd\Proppel1\Behavior\Versionable\VersionableBehavior 
+```

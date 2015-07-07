@@ -17,12 +17,12 @@
   },
   "autoload": {
     "psr-0": {
-      "Crzdeveloper\\Proppel1\\Generator\\Lib\\Behavior\\Versionable": "src/"
+      "Crzd\\Proppel1\\Behavior\\Versionable\\Versionable": "src/"
     }
   },
   "autoload-dev": {
     "psr-0": {
-      "Crzdeveloper\\Test\\Proppel1\\Generator\\Lib\\Behavior\\Versionable": "test/src"
+      "CrzdTest\\Proppel1\\Behavior\\Versionable\\Versionable": "test/src"
     }
   },
   "require-dev": {

@@ -8,7 +8,7 @@
  *
  * @license    MIT License
  */
-namespace Crzdeveloper\Test\Proppel1\Generator\Lib\Behavior\Versionable;
+namespace CrzdTest\Proppel1\Behavior\Versionable;
 
 use PHPUnit_Framework_TestCase;
 use PropelQuickBuilder;

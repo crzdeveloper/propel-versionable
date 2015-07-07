@@ -8,7 +8,7 @@
  * @license    MIT License
  */
 
-namespace Crzdeveloper\Proppel1\Generator\Lib\Behavior\Versionable;
+namespace Crzd\Proppel1\Behavior\Versionable;
 
 use Behavior;
 use ForeignKey;
